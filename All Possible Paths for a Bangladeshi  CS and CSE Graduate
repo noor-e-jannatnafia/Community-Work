@@ -7,14 +7,14 @@ Section 1: Content name and page number
 Before you start reading, you should know that you need to select a job depending on its growth, starting salary, reputation in society, etc.
 So, is selecting CSE a good choice?
 Yes. Universities like MIT, Harvard, and IIT pick the top brilliant minds for CS and CSE.
-So, if you think you are not the best, you must be the best to nail this subject. Otherwise, this will be a journey of struggle. Nothing else.
+So, if you think you are not the best, you must become the best to nail this subject. Otherwise, this will be a journey full of struggle. Nothing else.
  
  
 Generally, there are lots of paths you can pick as a CSE or CS graduate, but some of them are mentioned here in detail.
  
 Higher studies: You can go for higher studies after graduation. For that, you need to learn "research technologies" and publish some research papers to get some scholarship.
  
-But those who get into top-ranked universities generally have a CGPA of 3.9 or higher and very good publications under reputable professors. You don’t need to do your research under the supervision of any local professors. You can do it under any MIT or Harvard professor as well. But, how?
+But those who get into top-ranked universities generally have a CGPA of 3.9 or higher and very good publications under reputable professors. You don’t need to do your research under the supervision of any local professors. You can do it under any MIT or Harvard professor as well, despite being in any university. But, how?
  
 There is a program called "Research Internship," which opens in the summer in most cases. You can apply for this, and if selected, you have to go to that designated university and stay there for a whole semester. You can complete your research with the professor of your choice and get paid at the same time.
  
@@ -30,7 +30,7 @@ You can get jobs at foreign companies by applying through their websites.
 For example, you can apply to Google from their website:
  
 https://careers.google.com/jobs/results/
-The same goes for Microsoft and any other foreign company.
+The same goes for Microsoft or any other foreign company.
 You can get notifications of them by following the companies on LinkedIn Jobs, or you can just subscribe to their job alerts.
 For Google, you can do this by enabling the notification button.
  
@@ -41,7 +41,7 @@ For Google, here is their internship page: https://careers.google.com/students/e
 Moreover, you can get jobs from referrals as well. For example, if you want to get a job at Google, you can manage Google Recruiters' email or go to LinkedIn and search for "Google Recruiters."
  
  
-Reach out to them and share your resume and LinkedIn profile. If they find your profile and resume helpful, they will refer you, and you can skip the general steps unlike others. You will be allowed to directly attend all the interviews.
+Reach out to them and share your resume and LinkedIn profile. If they find your profile and resume helpful, they will refer you, and this can help you skip the general steps unlike others. You will be allowed to directly attend all the interviews.
  
 Those who advance to the ICPC World Finals or achieve a high ranking on competitive programming websites are also contacted by recruiters.
  
@@ -84,7 +84,7 @@ Teachers with Master's or doctoral degrees can expect to earn between $2,500 and
  
 Growth: For graduates who just have a bachelor’s degree, growth is tough. For promotions, you need more years of experience and a higher degree than others. Foreign countries such as the United States and Canada will almost certainly give you an advantage over others.
  
-4.      Corporate Profession: You can get jobs at corporate companies like Robi, Banglalink, etc. You must have business competition experience for this, as the selection process includes more business quizzes and business analysis than technical interviews. A 3+ is more than enough to get a job in a corporation.
+4.      Corporate Profession: You can get jobs at corporate companies like Robi, Banglalink, etc. You must have business competition experience for this, as the selection process includes more business quizzes and business analysis than technical interviews. A 3+ of CGPA is more than enough to get you a job in a corporation.
  
 Starting salary: It’s almost 70–90k per month.
 Growth: Growth depends on the excellence of your job.
@@ -165,7 +165,7 @@ Here are the issues: https://github.com/python/cpython/issues
 You investigate the first problem.
  
 Before reading this issue, you should know that these issues can be created by project maintainers or any other general person.
-Generally, maintainers create issues when they see small bugs and want anyone to solve them. And general people or contributors like us do it when they find a problem in the codebase and propose a solution to the issue.
+Generally, maintainers create issues when they see small bugs and want someone to solve it for them. And general people or contributors like us do it when they find a problem in the codebase and propose a solution to the issue.
  
 Then they create an issue that gets notified by a maintainer.
 How can this benefit the general user?
